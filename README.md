@@ -104,8 +104,8 @@ What I can build, what I use with working knowledge, and what I haven't done yet
 
 <div align="center">
 
-![Kaggle](https://img.shields.io/badge/KAGGLE-PYTHON_CODER-FFB3D1?style=for-the-badge&logo=kaggle&logoColor=black&labelColor=0b0d17)
-![IBM](https://img.shields.io/badge/IBM-AI_BASICS_%26_LLMS-D0B3F5?style=for-the-badge&logo=ibm&logoColor=black&labelColor=0b0d17)
+![Kaggle](https://img.shields.io/badge/KAGGLE-PYTHON_CODER-FFB3D1?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0b0d17)
+![IBM](https://img.shields.io/badge/IBM-AI_BASICS_%26_LLMS-D0B3F5?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0b0d17)
 ![upGrad](https://img.shields.io/badge/UPGRAD-PYTHON_%26_COMMUNICATION-A8D8FF?style=for-the-badge&labelColor=0b0d17)
 ![Hackathon](https://img.shields.io/badge/HACKCELESTIAL_3.0-🏆-FFD9B8?style=for-the-badge&labelColor=0b0d17)
 
@@ -120,7 +120,6 @@ What I can build, what I use with working knowledge, and what I haven't done yet
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jagtapmansis006-glitch&show_icons=true&hide_border=true&bg_color=0b0d17&title_color=FFB3D1&icon_color=D0B3F5&text_color=A8D8FF&ring_color=B8F0D8" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagtapmansis006-glitch&layout=compact&hide_border=true&bg_color=0b0d17&title_color=FFB3D1&text_color=A8D8FF" alt="Top languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagtapmansis006-glitch&bg_color=0b0d17&color=D0B3F5&line=FFB3D1&point=B8F0D8&area=true&area_color=D0B3F5&hide_border=true" width="100%" alt="Contribution activity"/>
 
 </div>
 
@@ -135,10 +134,10 @@ mansi@portfolio:~$ ./connect --mode=internship --available=true
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-FFB3D1?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0b0d17" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D0B3F5?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0b0d17" alt="Email"/></a>
-<a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/PORTFOLIO-A8D8FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0b0d17" alt="Portfolio"/></a>
-<a href="https://github.com/jagtapmansis006-glitch"><img src="https://img.shields.io/badge/GITHUB-B8F0D8?style=for-the-badge&logo=github&logoColor=black&labelColor=0b0d17" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-FFB3D1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0d17" alt="LinkedIn"/></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D0B3F5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0d17" alt="Email"/></a>
+<a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/PORTFOLIO-A8D8FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b0d17" alt="Portfolio"/></a>
+<a href="https://github.com/jagtapmansis006-glitch"><img src="https://img.shields.io/badge/GITHUB-B8F0D8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d17" alt="GitHub"/></a>
 
 <br/><br/>
 
