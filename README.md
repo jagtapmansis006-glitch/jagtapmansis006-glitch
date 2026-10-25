@@ -1,151 +1,147 @@
-<!-- ===================== HEADER BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFD6E8,50:E0C9F5,100:BDE0FE&text=Mansi%20Sanjay%20Jagtap&fontSize=46&fontColor=3B2A50&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Secure%20%7C%20Real-time%20%7C%20AI-powered&descSize=17&descAlignY=60&descColor=5A4670" alt="Mansi Sanjay Jagtap banner"/>
-
 <div align="center">
 
-<a href="https://github.com/jagtapmansis006-glitch">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C77DBA&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%8C%B8;React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Supabase;Secure+data+with+Row-Level+Security;Looking+for+Internships+%26+Great+Teams" alt="Typing intro"/>
-</a>
+<img src="./assets/banner.svg" width="100%" alt="Mansi Sanjay Jagtap — Full-Stack Developer"/>
 
 <br/>
 
-![Role](https://img.shields.io/badge/Role-Full--Stack_Developer-FFD6E8?style=for-the-badge&labelColor=2B2D42)
-![Education](https://img.shields.io/badge/B.E.-Electronics_%26_Telecom-E0C9F5?style=for-the-badge&labelColor=2B2D42)
-![Status](https://img.shields.io/badge/Open_to-Internships-BDE0FE?style=for-the-badge&labelColor=2B2D42)
+[![About](https://img.shields.io/badge/01_·_ABOUT-FFB3D1?style=for-the-badge&labelColor=0b0d17)](#-whoami)
+[![Stack](https://img.shields.io/badge/02_·_ARCHITECTURE-D0B3F5?style=for-the-badge&labelColor=0b0d17)](#-how-i-build)
+[![Skills](https://img.shields.io/badge/03_·_CAPABILITIES-A8D8FF?style=for-the-badge&labelColor=0b0d17)](#-capability-matrix)
+[![Projects](https://img.shields.io/badge/04_·_MODULES-B8F0D8?style=for-the-badge&labelColor=0b0d17)](#-deployed-modules)
+[![Contact](https://img.shields.io/badge/05_·_CONNECT-FFD9B8?style=for-the-badge&labelColor=0b0d17)](#-open-channel)
+
+<a href="https://github.com/jagtapmansis006-glitch">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=D0B3F5&center=true&vCenter=true&width=700&lines=%3E+initializing+mansi.dev...;%3E+loading+React+%2B+TypeScript+%2B+Next.js...;%3E+enforcing+Row-Level+Security...;%3E+status%3A+open+to+internships+%E2%9C%93" alt="boot sequence"/>
+</a>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🌸 About Me
+## ⌘ whoami
 
-I'm a **B.E. Electronics & Telecommunication** student at the **University of Mumbai (graduating 2028)** who builds **role-based web platforms people can actually use**, with:
+```console
+mansi@portfolio:~$ cat profile.json
+{
+  "name":        "Mansi Sanjay Jagtap",
+  "role":        "Full-Stack Developer",
+  "studying":    "B.E. Electronics & Telecommunication",
+  "university":  "University of Mumbai (2028)",
+  "superpower":  ["Row-Level Security", "AI integrations"],
+  "hackathon":   "HackCelestial 3.0 🏆",
+  "lookingFor":  "Internships & strong teams to build with",
+  "status":      "ONLINE ●"
+}
 
-- 🔐 **Secure data**: PostgreSQL Row-Level Security (RLS) and RBAC
-- ⚡ **Real-time sync**: live, multi-user experiences
-- 🤖 **AI woven in**: Gemini API, OpenCV, Python ML
+mansi@portfolio:~$ echo $PITCH
+I build role-based web platforms people can actually use —
+secure by default (PostgreSQL RLS), live by design (real-time sync),
+and smarter with AI (Gemini API · OpenCV · Python ML).
+```
 
-> 🏆 **HackCelestial 3.0**: hackathon achievement
-> 🎯 **Looking for:** internships & cool teams to build with
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
----
+## ⌘ how I build
 
-## 🧰 Tech Stack
+Every platform I ship follows the same pipeline — security and data integrity first, then real-time, then intelligence.
+
+```mermaid
+flowchart LR
+    A["🖥️ CLIENT<br/>React · TypeScript · Next.js"] --> B["🔐 ACCESS LAYER<br/>RBAC + Row-Level Security"]
+    B --> C[("🗄️ DATA<br/>Supabase · PostgreSQL · PostGIS")]
+    C --> D["⚡ REAL-TIME<br/>Live sync across users"]
+    C --> E["🤖 AI LAYER<br/>Gemini API · OpenCV · Python ML"]
+    D --> A
+    E --> A
+
+    style A fill:#FFB3D1,stroke:#0b0d17,color:#0b0d17
+    style B fill:#D0B3F5,stroke:#0b0d17,color:#0b0d17
+    style C fill:#A8D8FF,stroke:#0b0d17,color:#0b0d17
+    style D fill:#B8F0D8,stroke:#0b0d17,color:#0b0d17
+    style E fill:#FFD9B8,stroke:#0b0d17,color:#0b0d17
+```
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## ⌘ capability matrix
+
+What I can build, what I use with working knowledge, and what I haven't done yet. Being upfront about all three.
+
+<img src="./assets/skills.svg" width="100%" alt="Capability matrix: confident, working knowledge, and not-yet skills"/>
 
 <div align="center">
 
-| | |
-|---|---|
-| **Frontend** | ![React](https://img.shields.io/badge/React-FFD6E8?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-E0C9F5?style=flat-square&logo=typescript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-BDE0FE?style=flat-square&logo=nextdotjs&logoColor=black) |
-| **Backend & Database** | ![Supabase](https://img.shields.io/badge/Supabase-C1F0DC?style=flat-square&logo=supabase&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFD6E8?style=flat-square&logo=postgresql&logoColor=black) ![PostGIS](https://img.shields.io/badge/PostGIS-E0C9F5?style=flat-square&logoColor=black) |
-| **AI / ML** | ![Python](https://img.shields.io/badge/Python-BDE0FE?style=flat-square&logo=python&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-C1F0DC?style=flat-square&logo=opencv&logoColor=black) ![Gemini API](https://img.shields.io/badge/Gemini_API-FFE5D0?style=flat-square&logo=googlegemini&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FFD6E8?style=flat-square&logo=streamlit&logoColor=black) |
-| **Concepts** | ![RLS](https://img.shields.io/badge/Row--Level_Security-E0C9F5?style=flat-square&logoColor=black) ![RBAC](https://img.shields.io/badge/RBAC-BDE0FE?style=flat-square&logoColor=black) ![Realtime](https://img.shields.io/badge/Realtime_Sync-C1F0DC?style=flat-square&logoColor=black) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-FFE5D0?style=flat-square&logo=git&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-FFD6E8?style=flat-square&logo=github&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-E0C9F5?style=flat-square&logo=visualstudiocode&logoColor=black) |
+![React](https://img.shields.io/badge/-React-FFB3D1?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-D0B3F5?style=flat-square&logo=typescript&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-A8D8FF?style=flat-square&logo=nextdotjs&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-B8F0D8?style=flat-square&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFD9B8?style=flat-square&logo=postgresql&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-FFB3D1?style=flat-square&logo=python&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-D0B3F5?style=flat-square&logo=opencv&logoColor=black)
+![Gemini](https://img.shields.io/badge/-Gemini_API-A8D8FF?style=flat-square&logo=googlegemini&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-B8F0D8?style=flat-square&logo=streamlit&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-FFD9B8?style=flat-square&logo=git&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS_Code-FFB3D1?style=flat-square&logo=visualstudiocode&logoColor=black)
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🚀 Featured Projects
+## ⌘ deployed modules
 
-> ✏️ **Edit this section:** replace the placeholders below with your real projects. Recruiters spend most of their time here.
+> ✏️ **Replace the placeholders with your real projects.** Recruiters spend most of their time on this section.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Module | What it does | Stack | Status | Links |
+|:--|:--|:--|:--:|:--|
+| **🌸 PROJECT_01** | One line: what it does and for whom. Mention RLS / roles / realtime. | `React` `TypeScript` `Supabase` | 🟢 Live | [Demo](#) · [Code](#) |
+| **💜 PROJECT_02** | One line: the AI feature and the problem it solves. | `Python` `Streamlit` `OpenCV` | 🟢 Live | [Demo](#) · [Code](#) |
+| **💙 PROJECT_03** | One line: the geospatial or realtime feature. | `Next.js` `PostGIS` `Supabase` | 🟡 Building | [Code](#) |
+| **🏆 HACKCELESTIAL_3.0** | What you built, your role, and the result. | add stack | 🏅 Achievement | [Project](#) |
 
-### 🌷 Project One Name
-One-line description of what it does and who it's for.
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-**Highlights**
-- Role-based access with Supabase RLS
-- Real-time updates across users
-- Your key result or metric here
-
-**Stack:** `React` `TypeScript` `Supabase`
-
-🔗 [Live Demo](#) · 💻 [Source Code](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 💜 Project Two Name
-One-line description of what it does and who it's for.
-
-**Highlights**
-- AI feature (Gemini API / OpenCV)
-- What problem it solves
-- Your key result or metric here
-
-**Stack:** `Python` `Streamlit` `OpenCV`
-
-🔗 [Live Demo](#) · 💻 [Source Code](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💙 Project Three Name
-One-line description of what it does and who it's for.
-
-**Stack:** `Next.js` `PostGIS` `Supabase`
-
-🔗 [Live Demo](#) · 💻 [Source Code](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 HackCelestial 3.0
-Describe what you built, your role, and the result at the hackathon.
-
-**Stack:** add your stack here
-
-🔗 [Project Link](#)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏅 Achievements & Certifications
+## ⌘ credentials
 
 <div align="center">
 
-![Kaggle](https://img.shields.io/badge/Kaggle-Python_Coder-FFD6E8?style=for-the-badge&logo=kaggle&logoColor=black&labelColor=2B2D42)
-![IBM](https://img.shields.io/badge/IBM-AI_Basics_%26_LLMs-E0C9F5?style=for-the-badge&logo=ibm&logoColor=black&labelColor=2B2D42)
-![upGrad](https://img.shields.io/badge/upGrad-Python_%26_Communication-BDE0FE?style=for-the-badge&labelColor=2B2D42)
-![Hackathon](https://img.shields.io/badge/HackCelestial_3.0-Hackathon_🏆-FFE5D0?style=for-the-badge&labelColor=2B2D42)
+![Kaggle](https://img.shields.io/badge/KAGGLE-PYTHON_CODER-FFB3D1?style=for-the-badge&logo=kaggle&logoColor=black&labelColor=0b0d17)
+![IBM](https://img.shields.io/badge/IBM-AI_BASICS_%26_LLMS-D0B3F5?style=for-the-badge&logo=ibm&logoColor=black&labelColor=0b0d17)
+![upGrad](https://img.shields.io/badge/UPGRAD-PYTHON_%26_COMMUNICATION-A8D8FF?style=for-the-badge&labelColor=0b0d17)
+![Hackathon](https://img.shields.io/badge/HACKCELESTIAL_3.0-🏆-FFD9B8?style=for-the-badge&labelColor=0b0d17)
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 📊 GitHub Stats
+## ⌘ telemetry
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jagtapmansis006-glitch&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB3D1&icon_color=D0B3F5&text_color=BDE0FE" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagtapmansis006-glitch&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB3D1&text_color=BDE0FE" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jagtapmansis006-glitch&show_icons=true&hide_border=true&bg_color=0b0d17&title_color=FFB3D1&icon_color=D0B3F5&text_color=A8D8FF&ring_color=B8F0D8" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagtapmansis006-glitch&layout=compact&hide_border=true&bg_color=0b0d17&title_color=FFB3D1&text_color=A8D8FF" alt="Top languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagtapmansis006-glitch&bg_color=0b0d17&color=D0B3F5&line=FFB3D1&point=B8F0D8&area=true&area_color=D0B3F5&hide_border=true" width="100%" alt="Contribution activity"/>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🤝 Let's Connect
+## ⌘ open channel
+
+```console
+mansi@portfolio:~$ ./connect --mode=internship --available=true
+> channel opened. say hello ↓
+```
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-FFD6E8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-E0C9F5?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
-<a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-BDE0FE?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-<a href="https://github.com/jagtapmansis006-glitch"><img src="https://img.shields.io/badge/GitHub-C1F0DC?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-FFB3D1?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0b0d17" alt="LinkedIn"/></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D0B3F5?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0b0d17" alt="Email"/></a>
+<a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/PORTFOLIO-A8D8FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0b0d17" alt="Portfolio"/></a>
+<a href="https://github.com/jagtapmansis006-glitch"><img src="https://img.shields.io/badge/GITHUB-B8F0D8?style=for-the-badge&logo=github&logoColor=black&labelColor=0b0d17" alt="GitHub"/></a>
 
 <br/><br/>
 
-*"Make it work, make it right, make it pretty."* 🌸
+<sub><code>// make it work, make it right, make it pretty. 🌸</code></sub>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:BDE0FE,50:E0C9F5,100:FFD6E8&section=footer" alt="footer"/>
