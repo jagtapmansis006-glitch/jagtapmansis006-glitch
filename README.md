@@ -1,14 +1,12 @@
-<!-- Replace nothing below except the TODO items listed in the notes. Username used: jagtapmansis006-glitch -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ffc8dd,50:cdb4db,100:a2d2ff&text=Mansi%20Jagtap&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Electronics%20%26%20Telecom%20%C2%B7%20Full-Stack%20%C2%B7%20AI&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Mansi Jagtap banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffc8dd,50:cdb4db,100:a2d2ff&text=Mansi%20Jagtap&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Electronics%20%26%20Telecom%20%C2%B7%20Full-Stack%20%C2%B7%20AI&descSize=20&descAlignY=62" width="100%" alt="Mansi Jagtap banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=640&lines=Building+role-based+platforms+with+AI+inside+%E2%9C%A8;React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+Supabase;E%26TC+undergrad+%40+University+of+Mumbai+%F0%9F%8E%93;Turning+ideas+into+shipped+products+%F0%9F%8C%B8" alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=jagtapmansis006-glitch&label=PROFILE+VIEWS&color=c77dff&style=for-the-badge" alt="Profile views" />
 
@@ -16,15 +14,46 @@
 
 <br/>
 
-## 🌸 About Me
+## 🌸 Hello, World
 
-Hi, I'm **Mansi** 👋 an **Electronics & Telecommunication Engineering undergraduate** (University of Mumbai, class of 2028) and a **full-stack developer** who loves building real products people can actually use.
+<table>
+  <tr>
+    <td width="48%" align="center" valign="middle">
+      <img src="code-portrait.png" width="100%" alt="Portrait made of code characters" />
+      <br/>
+      <sub><i>me, compiled from code characters ✨</i></sub>
+    </td>
+    <td width="52%" valign="top">
 
-- 🌷 I build **role-based web platforms** with **React, TypeScript, Next.js and Supabase**
-- 🔐 Comfortable with **PostgreSQL Row-Level Security**, **real-time data sync** and clean service layers
-- 🤖 Integrating **AI** into apps: **Gemini API, OpenCV and Python ML**
-- 🏆 Hackathon builder: co-built **EventFlowAI** at **HackCelestial 3.0**
-- 📚 Currently deepening my **DSA**, **system design** and **applied AI**
+```ts
+const mansi = {
+  role:      "Full-Stack Developer",
+  studying:  "B.E. Electronics & Telecom",
+  university:"University of Mumbai (2028)",
+  stack:     ["React", "TypeScript", "Next.js", "Supabase"],
+  superpower:"Row-Level Security + AI integrations",
+  hackathon: "HackCelestial 3.0 🏆",
+  lookingFor: "Internships & cool teams to build with",
+  mood:      "🌸 caffeinated & shipping",
+};
+```
+
+I build **role-based web platforms** people can actually use, with secure data (PostgreSQL **RLS**), **real-time sync**, and **AI** woven in (Gemini API, OpenCV, Python ML).
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## ✨ Currently
+
+| | |
+|---|---|
+| 🔭 **Working on** | Polishing CivicEye and NCATEX for real-world use |
+| 🌱 **Learning** | DSA, system design, applied AI |
+| 🤝 **Open to** | Internships, hackathon teams, open-source collabs |
+| 💬 **Ask me about** | Supabase RLS, role-based access control, React + TypeScript |
 
 <br/>
 
@@ -50,13 +79,13 @@ Hi, I'm **Mansi** 👋 an **Electronics & Telecommunication Engineering undergra
 
 <br/>
 
-<img src="https://img.shields.io/badge/Row--Level_Security-ffc8dd?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/RBAC-cdb4db?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Realtime_Sync-a2d2ff?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/PostGIS-ffafcc?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-bde0fe?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-cdb4db?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_API-ffc8dd?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Row--Level_Security-ffc8dd?style=flat-square" />
+<img src="https://img.shields.io/badge/RBAC-cdb4db?style=flat-square" />
+<img src="https://img.shields.io/badge/Realtime_Sync-a2d2ff?style=flat-square" />
+<img src="https://img.shields.io/badge/PostGIS-ffafcc?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-bde0fe?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCV-cdb4db?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini_API-ffc8dd?style=flat-square" />
 
 </div>
 
@@ -146,7 +175,6 @@ Trained and evaluated baseline ML models in Python and wrote documentation on ev
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <!-- Needs the snake GitHub Action (see snake.yml). Until it runs once, this image will be blank. -->
   <img src="https://raw.githubusercontent.com/jagtapmansis006-glitch/jagtapmansis006-glitch/output/snake.svg" alt="Contribution snake" width="95%" />
 </div>
 
@@ -159,9 +187,6 @@ Trained and evaluated baseline ML models in Python and wrote documentation on ev
 <a href="https://linkedin.com/in/mansi-jagtap-849784378"><img src="https://img.shields.io/badge/LinkedIn-c77dff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/jagtapmansis006-glitch"><img src="https://img.shields.io/badge/GitHub-ffafcc?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:jagtapmansis006@gmail.com"><img src="https://img.shields.io/badge/Email-a2d2ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<!-- TODO: add your portfolio:
-<a href="YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-ffc8dd?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
--->
 
 <br/><br/>
 
